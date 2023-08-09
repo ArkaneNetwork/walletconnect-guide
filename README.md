@@ -1,3 +1,5 @@
+# WalletConnect Guide
+
 This guide is intended for wallet app developers looking to implement WalletConnect.
 
 ## Getting Started
